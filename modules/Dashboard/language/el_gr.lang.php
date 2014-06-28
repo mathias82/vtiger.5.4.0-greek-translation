@@ -22,10 +22,6 @@
 /*********************************************************************************
 GREEK TRANSLATION - LOCALISATION
 
-Prepared on February, 2013 (for vTigerCrm 5.4.0)
-
-Contributors:
-mathias stavrou, Open For Business, http://www.mstavrou.com for HELLASCRM http://www.hellascrm.gr , Athens, Greece
  ********************************************************************************/
 $mod_strings = Array(
   'LBL_SALES_STAGE_FORM_TITLE' => 'Κανάλι ανά Στάδιο Πώλησης',
