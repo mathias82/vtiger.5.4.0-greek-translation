@@ -7,8 +7,7 @@
  * Portions created by vtiger are Copyright (C) vtiger.
  * All Rights Reserved.
  ********************************************************************************/
-/* Greek translation by Iosif at OFB and gandalf */
-	
+
 	var alert_arr = {       DELETE:'Σίγουρα θέλετε να διαγράψετε τις επιλεγμένες  ',
                                 RECORDS:' εγγραφές;',
                                 SELECT:'Παρακαλώ επιλέξτε τουλάχιστον μια μονάδα',
