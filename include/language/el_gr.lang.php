@@ -20,7 +20,7 @@
  * Contributor(s): ______________________________________..
  ********************************************************************************/
 $app_strings = array (
-'LBL_BROWSER_TITLE'=>'vtiger CRM 5 - Commercial Open Source CRM - Ελληνική έκδοση από τον mathias stavrou | mstavrou',
+'LBL_BROWSER_TITLE'=>'vtiger CRM 5 - Commercial Open Source CRM - Ελληνική έκδοση',
 'LBL_MY_ACCOUNT'=>'Ο Λογαριασμός μου',
 'LBL_MY_PREFERENCES'=>'Οι επιλογές μου',
 'LBL_ADMIN'=>'Διαχειριστής',
