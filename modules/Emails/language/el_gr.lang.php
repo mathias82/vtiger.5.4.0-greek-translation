@@ -15,14 +15,10 @@
 /*********************************************************************************
 GREEK TRANSLATION - LOCALISATION
 
-Prepared on February, 2013 (for vTigerCrm 5.2.1)
-
-Contributors:
-mathias stavrou, Open For Business, http://www.mstavrou.com for HELLASCRM http://www.hellascrm.gr , Athens, Greece
  ********************************************************************************/
  
 $mod_strings = Array(
-// Mike Crowe Mod --------------------------------------------------------added for general search
+
 'LBL_GENERAL_INFORMATION'=>'Γενικές Πληροφορίες',
 
 'LBL_MODULE_NAME'=>'Emails',
