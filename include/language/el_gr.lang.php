@@ -1064,9 +1064,7 @@ $app_strings = array (
 'Discount'=>'Έκπτωση',
 'LBL_ADD_BUTTON' => 'Προσθήκη',
 
-// Added after 5.0.4 GA ------- apo edo kai kato
 
-//Added to Fix i18N issue in Email Template
 'LBL_GENERAL_FIELDS'=>'Γενικά Πεδία', 
 //For Users fields
 'HomePhone'=>'Τηλέφωνο Σπιτιού',
