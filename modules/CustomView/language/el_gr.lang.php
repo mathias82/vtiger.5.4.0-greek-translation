@@ -196,14 +196,14 @@ $mod_strings = Array(
 //Strings added for Sales Orders module fields 
 'Customer No'=>'Κωδικός πελάτη', 
 'Quote Name'=>'Όνομα προσφοράς', 
-'Purchase Order'=>'Παραγγελία αγοράς', 
+'Purchase Order'=>'Εντολή αγοράς', 
 'Due Date'=>'Ημερομηνία περάτωσης', 
 'Pending'=>'Εκρεμμεί', 
 'Sales Commission'=>'Προμήθεια πωλήσεων', 
 'Excise Duty'=>'Φόρος ειδών', 
  
 //Strings added for Invoices module fields 
-'Sales Order'=>'Παραγγελία πωλήσεων', 
+'Sales Order'=>'Εντολή πωλήσεων', 
 'Invoice Date'=>'Ημερομηνία τιμολογίου', 
  
 //Strings added for Product module fields 
