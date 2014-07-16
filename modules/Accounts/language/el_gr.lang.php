@@ -18,17 +18,17 @@ GREEK TRANSLATION - LOCALISATION
  ********************************************************************************/
 
 $mod_strings = Array(
-'LBL_MODULE_NAME' =>'Λογαριασμοί',
+'LBL_MODULE_NAME' =>'Οργανισμοί',
 'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
-'LBL_MODULE_TITLE' =>'Λογαριασμοί: Αρχική',
-'LBL_SEARCH_FORM_TITLE' =>'Αναζήτηση Λογαριασμού',
-'LBL_LIST_FORM_TITLE' =>'Λίστα Λογαριασμών', 
-'LBL_NEW_FORM_TITLE'=>'Νέος Λογαριασμός',
+'LBL_MODULE_TITLE' =>'Οργανισμοί: Αρχική',
+'LBL_SEARCH_FORM_TITLE' =>'Αναζήτηση Οργανισμού',
+'LBL_LIST_FORM_TITLE' =>'Λίστα Οργανισμών', 
+'LBL_NEW_FORM_TITLE'=>'Νέος Οργανισμός',
 'LBL_MEMBER_ORG_FORM_TITLE'=>'Μέλος οργανισμού',
 // Label for Top Accounts in Home Page, added for 4.2 GA
-'LBL_TOP_ACCOUNTS'=>'Οι κυριώτεροι Λογαριασμοί μου', 
+'LBL_TOP_ACCOUNTS'=>'Οι κυριώτεροι Οργανισμοί μου', 
 'LBL_TOP_AMOUNT'=>'Ποσό',
-'LBL_LIST_ACCOUNT_NAME'=>'Όνομα Λογαριασμού',
+'LBL_LIST_ACCOUNT_NAME'=>'Όνομα Οργανισμού',
 'LBL_LIST_CITY'=>'Πόλη',
 'LBL_LIST_WEBSITE'=>'Ιστοσελίδα',
 'LBL_LIST_STATE'=>'Νομός',
@@ -44,8 +44,8 @@ $mod_strings = Array(
 
 //END DON'T CONVERT
 
-'LBL_ACCOUNT'=>'Λογαριασμός',
-'LBL_ACCOUNT_NAME'=>'Όνομα Λογαριασμού:',
+'LBL_ACCOUNT'=>'Οργανισμός',
+'LBL_ACCOUNT_NAME'=>'Όνομα Οργανισμού:',
 'LBL_PHONE'=>'Τηλέφωνο:',
 'LBL_WEBSITE'=>'Ιστοσελίδα:',
 'LBL_FAX'=>'Φαξ:',
@@ -77,14 +77,14 @@ $mod_strings = Array(
 'LBL_DESCRIPTION'=>'Περιγραφή:',
 'NTC_COPY_BILLING_ADDRESS'=>'Αντιγραφή Διευθ.Τιμολόγησης σε Διευθ.Αποστολής',
 'NTC_COPY_SHIPPING_ADDRESS'=>'Αντιγραφή Διευθ.Αποστολής σε Διευθ.Τιμολόγησης',
-'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'Είστε σίγουρος/η ότι θέλετε να διαγράψετε τον Λογαριασμό από μέλος του οργανισμού;',
-'LBL_DUPLICATE'=>'Δυνητικοί Διπλοκαταχωρημένοι Λογαριασμοί',
-'MSG_DUPLICATE' =>'Δημιουργία αυτού το λογαριασμού μπορεί δυνητικά να επιφέρει δημιουργία διπλοκαταχωρημένου λογαριασμού. Μπορείτε να επιλέξετε λογαριασμό από την παρακάτω λίστα ή μπορείτε να κάνετε κλικ στο Δημιουργία Νέου Λογαριασμού για να συνεχίσετε δημιουργώντας ένα λογαριασμό από τα προηγουμένως καταχωρημένα δεδομένα.',
+'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'Είστε σίγουρος/η ότι θέλετε να διαγράψετε τον Οργανισμό από μέλος του οργανισμού;',
+'LBL_DUPLICATE'=>'Δυνητικοί Διπλοκαταχωρημένοι Οργανισμοί',
+'MSG_DUPLICATE' =>'Δημιουργία αυτού του Οργανισμού μπορεί δυνητικά να επιφέρει δημιουργία διπλοκαταχωρημένης εγγραφής. Μπορείτε να επιλέξετε οργανισμό από την παρακάτω λίστα ή μπορείτε να κάνετε κλικ στο Δημιουργία Νέου Οργανισμού για να συνεχίσετε δημιουργώντας ένα λογαριασμό από τα προηγουμένως καταχωρημένα δεδομένα.',
 
 'LBL_INVITEE'=>'Επαφές',
-'ERR_DELETE_RECORD'=>"'Πρέπει να προσδιορίσετε μια εγγραφή για να διαγράψετε τον Λογαριασμό.",
+'ERR_DELETE_RECORD'=>"'Πρέπει να προσδιορίσετε μια εγγραφή για να διαγράψετε τον Οργανισμό.",
 
-'LBL_SELECT_ACCOUNT'=>'Επιλογή Λογαριασμού',
+'LBL_SELECT_ACCOUNT'=>'Επιλογή Οργανισμού',
 'LBL_GENERAL_INFORMATION'=>'Γενικές Πληροφορίες',
 
 //for v4 release added
@@ -110,9 +110,9 @@ $mod_strings = Array(
 'LBL_PARTNER'=>'Συνεργάτης',
 
 // Added for 4GA
-'LBL_TOOL_FORM_TITLE'=>'Εργαλεία Λογαριασμών',
+'LBL_TOOL_FORM_TITLE'=>'Εργαλεία Οργανισμού',
 //Added for 4GA
-'Account Name'=>'Όνομα Λογαριασμού',
+'Account Name'=>'Όνομα Οργανισμού',
 'Phone'=>'Τηλέφωνο',
 'Website'=>'Ιστοσελίδα',
 'Fax'=>'Φαξ',
@@ -183,7 +183,7 @@ $mod_strings = Array(
 'Insurance'=>'Ασφάλειες',
 'Machinery'=>'Μηχανήματα',
 'Manufacturing'=>'Βιομηχανία',
-'Media'=>'Μέσα Μαζικής Επικοινωνίας',
+'Media'=>'Μέσα Μαζικής Ενημέρωσης',
 'Not For Profit'=>'Μή Κερδοσκοπικός',
 'Recreation'=>'Αναψυχή',
 'Retail'=>'Λιανική',
@@ -210,17 +210,17 @@ $mod_strings = Array(
 // Added/Updated for vtiger CRM 5.0.4
 
 //added to fix the issue #4081
-'LBL_ACCOUNT_EXIST' => 'Το όνομα Λογαριασμού υπάρχει ήδη!',
+'LBL_ACCOUNT_EXIST' => 'Το όνομα Οργανισμού υπάρχει ήδη!',
 
 // mailer export
 'LBL_MAILER_EXPORT' => 'Εξαγωγή μέσω Mailer',
 'LBL_MAILER_EXPORT_CONTACTS_TYPE'=>'Επιλογή Επαφών:',
 'LBL_MAILER_EXPORT_CONTACTS_DESCR'=>'Οι επαφές μπορούν επίσης να επιλεγούν μέσω των Προσαρμοσμένων Πεδίων και ορισμένων καθορισμένων πεδίων.',
 'LBL_MAILER_EXPORT_RESULTS_TYPE'=>'Επιλογή τύπου εξαγωγής:',
-'LBL_MAILER_EXPORT_RESULTS_DESCR'=>'Τα δεδομένα θα συλλεγούν από τους Λογαριασμούς και τις Επαφές τους, που επεστράφησαν στην προηγούμενη αναζήτηση.',
+'LBL_MAILER_EXPORT_RESULTS_DESCR'=>'Τα δεδομένα θα συλλεγούν από τους Οργανισμούς και τις Επαφές τους, που επεστράφησαν στην προηγούμενη αναζήτηση.',
 'LBL_EXPORT_RESULTS_EMAIL' => 'Εξαγωγή δεδομένων E-Mailer',
-'LBL_EXPORT_RESULTS_EMAIL_CORP'=>'Εξαγωγή δεδομένων E-Mail, με χρήση του "Εταιρικού Email" από τον Λογαριασμό, εάν το "Email" της επαφής είναι κενό',
-'LBL_EXPORT_RESULTS_FULL'=>'Εξαγωγή δεδεομένων με τις Επαφές, τα E-Mail, Όνομα Λογαριασμού, Διεύθυνση, Τηλέφωνο κλπ.',
+'LBL_EXPORT_RESULTS_EMAIL_CORP'=>'Εξαγωγή δεδομένων E-Mail, με χρήση του "Εταιρικού Email" από τον Οργανισμό, εάν το "Email" της επαφής είναι κενό',
+'LBL_EXPORT_RESULTS_FULL'=>'Εξαγωγή δεδεομένων με τις Επαφές, τα E-Mail, Όνομα Οργανισμού, Διεύθυνση, Τηλέφωνο κλπ.',
 'LBL_EXPORT_RESULTS_GO'=>'Εξαγωγή',
 'LBL_MAILER_EXPORT_IGNORE' => '--αγνοήστε--',
 'LBL_MAILER_EXPORT_CHECKED' =>'Επιλέχθηκε',
@@ -229,11 +229,11 @@ $mod_strings = Array(
 // // Added after 5.0.4 GA
 
 //Module Sequence Numbering
-'Account No'=>'Αριθμός Λογαριασμού',
+'Account No'=>'Αριθμός Οργανισμού',
 // END
 
 // Account Hierarchy
-'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Εμφάνιση Ιεραρχίας Λογαριασμού',
+'LBL_SHOW_ACCOUNT_HIERARCHY' => 'Εμφάνιση Ιεραρχίας Οργανισμού',
 
 );
 
