@@ -19,16 +19,16 @@ GREEK TRANSLATION - LOCALISATION
  
 $mod_strings = Array(
 'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
-'LBL_MODULE_NAME'=>'Παραγγελίες πωλήσεων',
-'LBL_SO_MODULE_NAME'=>'Παραγγελίες πωλήσεων',
+'LBL_MODULE_NAME'=>'Εντολή Πωλήσης',
+'LBL_SO_MODULE_NAME'=>'Εντολή Πωλήσης',
 'LBL_RELATED_PRODUCTS'=>'Λεπτομέρειες προϊόντων',
-'LBL_MODULE_TITLE'=>'Παραγγελίες πωλήσεων: Αρχική',
-'LBL_SEARCH_FORM_TITLE'=>'Αναζήτηση παραγγελιών',
-'LBL_LIST_SO_FORM_TITLE'=>'Λίστα παραγγελιών πωλήσεων',
-'LBL_NEW_FORM_SO_TITLE'=>'Νέα παραγγελία πώλησης',
+'LBL_MODULE_TITLE'=>'Εντολή Πωλήσης: Αρχική',
+'LBL_SEARCH_FORM_TITLE'=>'Αναζήτηση εντολών πωλήσης',
+'LBL_LIST_SO_FORM_TITLE'=>'Λίστα εντολών πωλήσης',
+'LBL_NEW_FORM_SO_TITLE'=>'Νέα εντολή πώλησης',
 'LBL_MEMBER_ORG_FORM_TITLE'=>'Μέλος οργανισμού',
 
-'LBL_LIST_ACCOUNT_NAME'=>'Όνομα λογαριασμού',
+'LBL_LIST_ACCOUNT_NAME'=>'Όνομα Οργανσιμού',
 'LBL_LIST_CITY'=>'Πόλη',
 'LBL_LIST_WEBSITE'=>'Ιστοσελίδα',
 'LBL_LIST_STATE'=>'Νομός',
@@ -43,8 +43,8 @@ $mod_strings = Array(
 
 //END DON'T CONVERT
 
-'LBL_ACCOUNT'=>'Λογαριασμός:',
-'LBL_ACCOUNT_NAME'=>'Όνομα λογαριασμού:',
+'LBL_ACCOUNT'=>'Οργανισμός:',
+'LBL_ACCOUNT_NAME'=>'Όνομα Οργανσιμού:',
 'LBL_PHONE'=>'Τηλέφωνο:',
 'LBL_WEBSITE'=>'Ιστοσελίδα:',
 'LBL_FAX'=>'Φαξ:',
@@ -59,11 +59,11 @@ $mod_strings = Array(
 'LBL_OWNERSHIP'=>'Ιδιοκτησία:',
 'LBL_RATING'=>'Κατάσταση:',
 'LBL_INDUSTRY'=>'Κλάδος:',
-'LBL_SIC_CODE'=>'Κωδικός Δραστηριότητας:',
+'LBL_SIC_CODE'=>'ΑΦΜ',
 'LBL_TYPE'=>'Τύπος:',
 'LBL_ANNUAL_REVENUE'=>'Τζίρος:',
 'LBL_ADDRESS_INFORMATION'=>'Πληροφορίες Διεύθυνσης',
-'LBL_Quote_INFORMATION'=>'Πληροφορίες Λογαριασμού',
+'LBL_Quote_INFORMATION'=>'Πληροφορίες Οργανσιμού',
 'LBL_CUSTOM_INFORMATION'=>'Προσαρμοσμένες Πληροφορίες',
 'LBL_BILLING_ADDRESS'=>'Διεύθυνση Τιμολόγησης:',
 'LBL_SHIPPING_ADDRESS'=>'Διεύθυνση Αποστολής:',
@@ -77,13 +77,13 @@ $mod_strings = Array(
 'LBL_DESCRIPTION'=>'Περιγραφή:',
 'NTC_COPY_BILLING_ADDRESS'=>'Αντιγραφή Διευθ. Τιμολόγησης σε Διευθ.Αποστολής',
 'NTC_COPY_SHIPPING_ADDRESS'=>'Αντιγραφή Διευθ. Αποστολής σε Διευθ.Τιμολόγησης',
-'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'Είστε σίγουρος/η ότι θέλετε να διαγράψετε το λογαριασμό από μέλος του οργανισμού;',
-'LBL_DUPLICATE' => 'Δυνητικοί Διπλοκαταχωρημένοι Λογαριασμοί',
-'MSG_DUPLICATE' => 'Δημιουργία αυτού το λογαριασμού μπορεί δυνητικά να επιφέρει δημιουργία διπλοκαταχωρημένου λογαριασμού. Μπορείτε να επιλέξετε λογαριασμό από την παρακάτω λίστα ή μπορείτε να κάνετε κλικ στο Δημιουργία Νέου Λογαριασμού για να συνεχίσετε δημιουργώντας ένα λογαριασμό από τα προηγουμένως καταχωρηθέντα δεδομένα.',
+'NTC_REMOVE_MEMBER_ORG_CONFIRMATION'=>'Είστε σίγουρος/η ότι θέλετε να διαγράψετε το οργανισμό από μέλος του οργανισμού;',
+'LBL_DUPLICATE' => 'Δυνητικοί Διπλοκαταχωρημένοι Οργανσιμοί',
+'MSG_DUPLICATE' => 'Δημιουργία αυτού του οργανσιμού μπορεί δυνητικά να επιφέρει δημιουργία διπλοκαταχωρημένου οργανσιμού. Μπορείτε να επιλέξετε οργανσιμό από την παρακάτω λίστα ή μπορείτε να κάνετε κλικ στο Δημιουργία Νέου Οργανσιμού για να συνεχίσετε δημιουργώντας έναν οργανσιμό από τα προηγουμένως καταχωρηθέντα δεδομένα.',
 'LBL_INVITEE' => 'Επαφές',
 'ERR_DELETE_RECORD'=>"Πρέπει να έχετε επιλέξει κάποια εγγραφή για να την διαγράψετε.",
 
-'LBL_SELECT_ACCOUNT'=>'Επιλογή Λογαριασμού',
+'LBL_SELECT_ACCOUNT'=>'Επιλογή Οργανσιμού',
 'LBL_GENERAL_INFORMATION'=>'Γενικές πληροφορίες',
 
 //for v4 release added
@@ -144,24 +144,24 @@ $mod_strings = Array(
   'Purchase Order' => 'Εντολή Αγοράς',
   'Vendor Terms' => 'Όροι Προμηθευτή',
   'Pending' => 'Εκκρεμεί',
-  'Account Name' => 'Όνομα Λογαριασμού',
+  'Account Name' => 'Όνομα Οργασνισμού',
 
 'Terms & Conditions'=>'Όροι & Προϋποθέσεις',
 //Quote Info
-'LBL_SO_INFORMATION'=>'Πληροφορίες Παραγγελίας',
-'LBL_SO'=>'Παραγγελία:',
+'LBL_SO_INFORMATION'=>'Πληροφορίες Εντολής Πώλησης',
+'LBL_SO'=>'Εντολή Πώλησης:',
 
  //Added for 5.0 GA
-'LBL_SO_FORM_TITLE'=>'Πωλήσεις',
+'LBL_SO_FORM_TITLE'=>'Εντολή Πώλησης',
 'LBL_SUBJECT_TITLE'=>'Θέμα',
 'LBL_VENDOR_NAME_TITLE' => 'Όνομα Προμηθευτή',
 'LBL_TRACKING_NO_TITLE' => 'Αριθμός Παρακολούθησης:',
-'LBL_SO_SEARCH_TITLE'=>'Αναζήτηση Παραγγελίας Πωλήσεων',
+'LBL_SO_SEARCH_TITLE'=>'Αναζήτηση Εντολών Πωλήσης',
 'LBL_QUOTE_NAME_TITLE'=>'Όνομα Προσφοράς',
-'Order Id'=>'Κωδικός Παραγγελίας',
-'LBL_MY_TOP_SO'=>'Οι κυριώτερες ανοιχτές παραγγελίες μου (πωλήσεων)',
+'Order Id'=>'Κωδικός Εντολής Πώλησης',
+'LBL_MY_TOP_SO'=>'Οι κυριώτερες ανοιχτές ενολές μου (πωλήσεων)',
 'Status'=>'Κατάσταση',
-'SalesOrder'=>'Παραγγελία Πωλήσεων',
+'SalesOrder'=>'Εντολή Πωλήσης',
 
 //Added for existing Picklist Entries
 
@@ -186,7 +186,7 @@ $mod_strings = Array(
 'S&H Amount'=>'Κόστος Αποστολής',
 
 //Added after 5.0.4 GA
-'SalesOrder No'=>'Αρ. Παραγ. Πωλήσεων',
+'SalesOrder No'=>'Αρ. Εντολ. Πωλήσης',
 
 'Recurring Invoice Information' => 'Πληροφορίες επαναλαμβανόμενου τιμολογίου',
 'Enable Recurring' => 'Ενεργοποίηση επαναλαμβανόμενου',
