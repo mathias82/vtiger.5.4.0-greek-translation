@@ -9,20 +9,20 @@
  ************************************************************************************/
 $mod_strings = Array(
     'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
-  	'LBL_MODULE_NAME'=>'Διαχείριση Εργου',
-  	'LBL_MODULE_TITLE'=>'Εργα',
+  	'LBL_MODULE_NAME'=>'Διαχείριση Έργου',
+  	'LBL_MODULE_TITLE'=>'Έργα',
     'LBL_NEW_PROJECT'=>'Νέο έργο',
-    'LBL_PROJECTS'=>'Εργα',
-    'LBL_PROJECT'=>'Εργο',
+    'LBL_PROJECTS'=>'Έργα',
+    'LBL_PROJECT'=>'Έργο',
 	'projectname' =>'Τίτλος έργου',
-    'projects' =>'Εργα',
-    'project' =>'Εργα',
+    'projects' =>'Έργα',
+    'project' =>'Έργα',
     //added this to translate the module name in the main app menu
-    'Project'=>'Εργα',
+    'Project'=>'Έργα',
     'ProjectMilestone' =>'Ορόσημα έργου',
     'ProjectTask' =>'Εργασίες',
     //
-    'SINGLE_Project' => 'Εργο',
+    'SINGLE_Project' => 'Έργο',
     'LBL_CUSTOM_INFORMATION' => 'Πληροφορίες',
     'LBL_PROJECT_INFORMATION' => 'Πληροφορίες έργου',
     'LBL_DESCRIPTION_INFORMATION' => 'Περιγραφή',
@@ -58,7 +58,7 @@ $mod_strings = Array(
     'Description' => 'Περιγραφή',
     'description' => 'Περιγραφή',
     '--none--' => '--none--',
-    'Project Name' => 'Τίτλος Εργου',
+    'Project Name' => 'Τίτλος Έργου',
     'LBL_RELATED_PROJECT_TASKS' => 'Εργασίες',
     'LBL_RELATED_PROJECT_MILESTONES' => 'Ορόσημα έργου',
 	'Timecontrol'=> 'Χρονοδιαγράμματα',
@@ -68,7 +68,7 @@ $mod_strings = Array(
     
     'Charts' => 'Charts',
 	'LBL_PROGRESS_CHART' => 'Πρόοδος',
-	'Project No' => 'Κωδ. Εργου',
+	'Project No' => 'Κωδ. Έργου',
 	
 	'Project Milestones' => 'Ορόσημα έργου',
 	'Project Tasks' => 'Εργασίες',
