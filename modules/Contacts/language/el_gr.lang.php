@@ -32,7 +32,7 @@ $mod_strings = Array(
 
   'LBL_LIST_NAME' => 'Όνομα',
   'LBL_LIST_LAST_NAME' => 'Επώνυμο',
-  'LBL_LIST_FIRST_NAME' => 'Μικρό Όνομα',
+  'LBL_LIST_FIRST_NAME' => 'Όνομα',
   'LBL_LIST_CONTACT_NAME' => 'Όνομα Επαφής',
   'LBL_LIST_TITLE' => 'Τίτλος',
   'LBL_LIST_ACCOUNT_NAME' => 'Όνομα Λογαριασμού',
@@ -63,7 +63,7 @@ $mod_strings = Array(
   'LBL_CONTACT_NAME' => 'Όνομα Επαφής:',
   'LBL_CONTACT_INFORMATION' => 'Πληροφορίες Επαφής',
   'LBL_CUSTOM_INFORMATION' => 'Εξατομικευμένες πληροφορίες',
-  'LBL_FIRST_NAME' => 'Μικρό Όνομα:',
+  'LBL_FIRST_NAME' => 'Όνομα:',
   'LBL_OFFICE_PHONE' => 'Τηλ. Γραφείου:',
   'LBL_ACCOUNT_NAME' => 'Όνομα Λογαριασμού:',
   'LBL_ANY_PHONE' => 'Οποιοδήποτε Τηλ.:',
@@ -136,7 +136,7 @@ $mod_strings = Array(
   'LBL_TOOL_FORM_TITLE' => 'Εργαλεία Επαφών',
 
   'Salutation' => 'Προσφώνηση',
-  'First Name' => 'Μικρό Όνομα',
+  'First Name' => 'Όνομα',
   'Office Phone' => 'Τηλ.Γραφείου',
   'Last Name' => 'Επώνυμο',
   'Mobile' => 'Κινητό',
