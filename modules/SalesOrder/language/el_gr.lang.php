@@ -19,12 +19,12 @@ GREEK TRANSLATION - LOCALISATION
  
 $mod_strings = Array(
 'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
-'LBL_MODULE_NAME'=>'Εντολή Πωλήσης',
-'LBL_SO_MODULE_NAME'=>'Εντολή Πωλήσης',
+'LBL_MODULE_NAME'=>'Εντολή Πώλησης',
+'LBL_SO_MODULE_NAME'=>'Εντολή Πώλησης',
 'LBL_RELATED_PRODUCTS'=>'Λεπτομέρειες προϊόντων',
-'LBL_MODULE_TITLE'=>'Εντολή Πωλήσης: Αρχική',
-'LBL_SEARCH_FORM_TITLE'=>'Αναζήτηση εντολών πωλήσης',
-'LBL_LIST_SO_FORM_TITLE'=>'Λίστα εντολών πωλήσης',
+'LBL_MODULE_TITLE'=>'Εντολή Πώλησης: Αρχική',
+'LBL_SEARCH_FORM_TITLE'=>'Αναζήτηση εντολών πώλησης',
+'LBL_LIST_SO_FORM_TITLE'=>'Λίστα εντολών πώλησης',
 'LBL_NEW_FORM_SO_TITLE'=>'Νέα εντολή πώλησης',
 'LBL_MEMBER_ORG_FORM_TITLE'=>'Μέλος οργανισμού',
 
@@ -156,12 +156,12 @@ $mod_strings = Array(
 'LBL_SUBJECT_TITLE'=>'Θέμα',
 'LBL_VENDOR_NAME_TITLE' => 'Όνομα Προμηθευτή',
 'LBL_TRACKING_NO_TITLE' => 'Αριθμός Παρακολούθησης:',
-'LBL_SO_SEARCH_TITLE'=>'Αναζήτηση Εντολών Πωλήσης',
+'LBL_SO_SEARCH_TITLE'=>'Αναζήτηση Εντολών Πώλησης',
 'LBL_QUOTE_NAME_TITLE'=>'Όνομα Προσφοράς',
 'Order Id'=>'Κωδικός Εντολής Πώλησης',
 'LBL_MY_TOP_SO'=>'Οι κυριώτερες ανοιχτές ενολές μου (πωλήσεων)',
 'Status'=>'Κατάσταση',
-'SalesOrder'=>'Εντολή Πωλήσης',
+'SalesOrder'=>'Εντολή Πώλησης',
 
 //Added for existing Picklist Entries
 
@@ -186,7 +186,7 @@ $mod_strings = Array(
 'S&H Amount'=>'Κόστος Αποστολής',
 
 //Added after 5.0.4 GA
-'SalesOrder No'=>'Αρ. Εντολ. Πωλήσης',
+'SalesOrder No'=>'Αρ. Εντολ. Πώλησης',
 
 'Recurring Invoice Information' => 'Πληροφορίες επαναλαμβανόμενου τιμολογίου',
 'Enable Recurring' => 'Ενεργοποίηση επαναλαμβανόμενου',
