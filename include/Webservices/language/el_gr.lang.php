@@ -11,10 +11,10 @@
 $app_strings = array (
     'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
 	'Groups'=>'Ομάδες',
-	'DocumentFolders'=>'Φάκελοι Εγγράφων',
-	'Currency'=>'Νομίσματα',
+	'DocumentFolders'=>'Φάκελοι Αρχείων',
+	'Currency'=>'Νομίσμα',
 	'SINGLE_Groups'=>'Ομάδα',
-	'SINGLE_DocumentFolders'=>'Φάκελος Εγγράφου',
+	'SINGLE_DocumentFolders'=>'Φάκελος Αρχείου',
 	'SINGLE_Currency'=>'Νόμισμα',
 );
 ?>
