@@ -23,8 +23,8 @@ $mod_strings = Array(
 'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
 'LBL_LAST_NAME' => 'Επώνυμο:',
 'LBL_LIST_LAST_NAME' => 'Επώνυμο',
-'LBL_ACCOUNT_NAME' => 'Όνομα Λογαριασμού:',
-'LBL_LIST_ACCOUNT_NAME' => 'Όνομα Λογαριασμού',
+'LBL_ACCOUNT_NAME' => 'Όνομα Οργανισμού:',
+'LBL_LIST_ACCOUNT_NAME' => 'Όνομα Οργανισμού',
 'LBL_PHONE' => 'Τηλ.:',
 'LBL_EMAIL_ADDRESS' => 'Email:',
 'LBL_TOTAL'=>'Σύνολο : ',
@@ -41,8 +41,8 @@ $mod_strings = Array(
 
 'LBL_OPEN_TASKS'=>'Οι ανοιχτές εργασίες μου',
 
-'LBL_LEADS_BY_SOURCE'=>'Συστάσεις ανά προέλευση',
-'LBL_LEADS_BY_STATUS'=>'Συστάσεις ανά κατάσταση',
+'LBL_LEADS_BY_SOURCE'=>'Προοπτικές ανά προέλευση',
+'LBL_LEADS_BY_STATUS'=>'Προοπτικές ανά κατάσταση',
 
 'LBL_UPCOMING_EVENTS'=>'Επερχόμενα γεγονότα',
 'LBL_PENDING_EVENTS'=>'Εκκρεμή γεγονότα',
@@ -101,14 +101,14 @@ $mod_strings = Array(
 // END
 
 // Default home page widget's title
-'Top Accounts'=>'Κυριότεροι λογαριασμοί',
+'Top Accounts'=>'Κυριότεροι Οργανισμοί',
 'Top Potentials'=>'Κυριότερες δυνατότητες',
 'Top Quotes'=>'Κυριότερες Προσφορές',
-'Top Trouble Tickets'=>'Κυριότερες Αναφορές Προβλημάτων',
+'Top Trouble Tickets'=>'Κυριότερα Αιτήματα',
 'Top Invoices'=>'Κυριότερα τιμολόγια',
-'Top Sales Orders'=>'Κυριότερες παραγγελίες πωλήσεων',
-'Top Purchase Orders'=>'Κυριότερες παραγγελίες αγορών',
-'My New Leads'=>'Νέες Συστάσεις',
+'Top Sales Orders'=>'Κυριότερες εντολές πωλήσεων',
+'Top Purchase Orders'=>'Κυριότερες εντολές αγορών',
+'My New Leads'=>'Οι Νέες Προοπτικές μου',
 'Key Metrics'=>'Κύρια Μετρικά',
 'My Group Allocation'=>'Κατανομή της ομάδας μου',
 'My Recent FAQs'=>'Πρόσφατες Συχνές Ερωτήσεις',
