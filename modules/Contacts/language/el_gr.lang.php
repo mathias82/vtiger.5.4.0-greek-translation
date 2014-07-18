@@ -52,7 +52,7 @@ $mod_strings = Array(
   'LBL_CREATED_CONTACT' => 'Δημιουργήθηκε νέα επαφή',
   'LBL_EXISTING_ACCOUNT' => 'Χρησιμοποιήθηκε υπαρκτός λογαριασμός',
   'LBL_CREATED_ACCOUNT' => 'Δημιουργήθηκε νέος λογαριασμός',
-  'LBL_CREATED_CALL' => 'Δημιουργήθηκε νέα κλήση',
+  'LBL_CREATED_CALL' => 'Δημιουργήθηκε νέο τηλεφώνημα',
   'LBL_CREATED_MEETING' => 'Δημιουργήθηκε νέα συνάντηση',
   'LBL_ADDMORE_BUSINESSCARD' => 'Προσθήκη επιπλέον Επαγγελματικής κάρτας',
   'LBL_ADD_BUSINESSCARD' => 'Προσθήκη Επαγγελματικής Κάρτας',
@@ -123,7 +123,7 @@ $mod_strings = Array(
 
   'LBL_NEW_TASK' => 'Νέα Εργασία',
   'LBL_TASK_TITLE' => 'Εργασίες',
-  'LBL_NEW_CALL' => 'Νέα κλήση',
+  'LBL_NEW_CALL' => 'Νέα Τηλεφώνημα',
   'LBL_CALL_TITLE' => 'Κλήσεις',
   'LBL_NEW_MEETING' => 'Νέα Συνάντηση',
   'LBL_MEETING_TITLE' => 'Συναντήσεις',
