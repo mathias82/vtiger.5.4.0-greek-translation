@@ -39,7 +39,7 @@ $mod_strings = Array(
 'LBL_TIMESETTINGS'=>'Ρυθμίσεις ώρας',
 'LBL_OPENCAL'=>'Άνοιγμα ημερολογίου',
 
-  'LBL_CALL' => 'Κλήση',
+  'LBL_CALL' => 'Τηλέφωνο',
   'LBL_MEET' => 'Συνάντηση',
   'LBL_APPNT' => 'Ραντεβού',
   'LBL_NEW_APPNT' => 'Νέο Ραντεβού',
@@ -416,7 +416,7 @@ $mod_strings = Array(
 'Pending Input'=>'Αναμένονται Στοιχεία',
 'LBL_REMAINDER_DAY'=>'ημέρες',
 'LBL_REMAINDER_HRS'=>'ώρες',
-'Call'=>'Κλήση',
+'Call'=>'Τηλέφωνο',
 'Meeting'=>'Συνάντηση',
 'LBL_OFB_WEEK'=>'Εβδομάδα',
 
