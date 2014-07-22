@@ -8,15 +8,18 @@
  * All Rights Reserved.
  ********************************************************************************/
 
-	var alert_arr = {       DELETE:'Σίγουρα θέλετε να διαγράψετε τις επιλεγμένες  ',
+	var alert_arr = {       
+            DELETE:'Σίγουρα θέλετε να διαγράψετε τις επιλεγμένες  ',
                                 RECORDS:' εγγραφές;',
                                 SELECT:'Παρακαλώ επιλέξτε τουλάχιστον μια μονάδα',
                                 DELETE_ACCOUNT:'Διαγράφοντας αυτόν τον λογαριασμό(ους) θα διαγραφούν και οι σχετικές ευκαιρίες και προσφορές. Σίγουρα θέλετε να διαγράψετε τις επιλεγμένες ',
                                 DELETE_VENDOR:'Διαγράφοντας αυτόν τον προμηθευτή(ές) θα διαγραφούν και οι σχετικές Παραγγελίες Αγοράς. Σίγουρα θέλετε να διαγράψετε τις επιλεγμένες ',
                                 SELECT_MAILID:'Παρακαλώ επιλέξτε ένα mailid',
                                 OVERWRITE_EXISTING_ACCOUNT1:'Να αντικατασταθεί η υπάρχουσα διεύθυνση με του επιλεγμένου λογαριασμού(',
-                                OVERWRITE_EXISTING_ACCOUNT2:') τα στοιχεία διεύθυνσης;',
-                                MISSING_FIELDS:'Λείπουν τα απαραίτητα πεδία:',
+                                OVERWRITE_EXISTING_ACCOUNT2:') στα στοιχεία διεύθυνσης;',
+							    OVERWRITE_EXISTING_CONTACT1:'Να αντικατασταθεί η υπάρχουσα διεύθυνση με της επιλεγμένης επαφής(',
+								OVERWRITE_EXISTING_CONTACT2:') στα στοιχεία διεύθυνσης;',                                
+								MISSING_FIELDS:'Λείπουν τα απαραίτητα πεδία:',
                                 NOT_ALLOWED_TO_EDIT:'δεν επιτρέπεται να αλλάξετε αυτό το πεδίο',
                                 COLUMNS_CANNOT_BE_EMPTY:'Ο επιλεγμένες στήλες δεν μπορεί να είναι κενές',
                                 CANNOT_BE_EMPTY:' δεν μπορεί να είναι κενά',
@@ -61,13 +64,16 @@
                                 ERROR:'Σφάλμα',
                                 FIELD_TYPE_NOT_SELECTED:'Ο τύπος πεδίου δεν έχει επιλεγεί',
                                 SPECIAL_CHARACTERS_NOT_ALLOWED:'Δεν επιτρέπονται σε αυτό το πεδίο Ειδικοί χαρακτήρες',
-                                PICKLIST_CANNOT_BE_EMPTY:'Η τιμή αυτή δεν μπορεί να είναι κενή',
+								SPECIAL_CHARACTERS:'Ειδικοί χαρακτήρες',
+								NOT_ALLOWED:'δεν επιτρέπονται. Παρακαλούμε δοκιμάστε άλλες τιμές',                                
+								PICKLIST_CANNOT_BE_EMPTY:'Η τιμή αυτή δεν μπορεί να είναι κενή',
                                 DUPLICATE_VALUES_FOUND:'Βρέθηκαν διπλοεγγραφές στις τιμές',
                                 DUPLICATE_MAPPING_ACCOUNTS:'Διπλοαντιστοίχιση Λογαριασμών!!',
                                 DUPLICATE_MAPPING_CONTACTS:'Διπλοαντιστοίχιση Επαφών!!',
                                 DUPLICATE_MAPPING_POTENTIAL:'Διπλοαντιστοίχιση Ευκαιριών!!',
                                 ERROR_WHILE_EDITING:'Σφάλμα κατά την επεξεργασία',
-                                CURRENCY_CONVERSION_INFO:'Χρησιμοποιείτε το  δολλάριο $ ως νόμισμα; \n Πατήστε το OK για να παραμείνει ως $, ή Ακύρωση για να αλλάξετε την τιμή συναλλάγματος.',
+								CURRENCY_CHANGE_INFO:'Η αλλαες στο Νόμισμα έγιναν Επιτυχώς',                               
+								CURRENCY_CONVERSION_INFO:'Χρησιμοποιείτε το  δολλάριο $ ως νόμισμα; \n Πατήστε το OK για να παραμείνει ως $, ή Ακύρωση για να αλλάξετε την τιμή συναλλάγματος.',
                                 THE_EMAILID: "Το email id \'",
                                 EMAIL_FIELD_INVALID:"\' στο πεδίο email δεν είναι έγκυρο",
                                 MISSING_REPORT_NAME:'Λείπει το όνομα της αναφοράς',
@@ -91,8 +97,8 @@
                                 SELECT_TEMPLATE_TO_MERGE:'Παρακαλώ επιλέξτε Πρότυπο για Συγχώνευση',
 				SELECTED_MORE_THAN_ONCE:'Έχετε επιλέξει τα ακόλουθα προϊόντα περισσότερες από μία φορές.',
 				YES:'ναι',
-                                NO:'όχι',
-                                MAIL:'mail',
+                NO:'όχι',
+                MAIL:'mail',
 				EQUALS:'είναι ίσο με',
 				NOT_EQUALS_TO:'δεν είναι ίσο με',
 				STARTS_WITH:'ξεκινάει με',
@@ -280,4 +286,55 @@
 				Notebook: 'Notebook',
 				SPECIAL_CHARS:'\\ / < > + \' " '
 
-                       };
+	'BETWEEN': 'between',
+	'BEFORE': 'before',
+	'AFTER': 'after',
+	'ERROR_DELETING_TRY_AGAIN': 'Error while deleting.Please try again.',
+	'LBL_ENTER_WINDOW_TITLE': 'Please enter Window Title.',
+	'LBL_SELECT_ONLY_FIELDS': 'Please select only two fields.',
+	'LBL_ENTER_RSS_URL':'Please enter RSS URL',
+	'LBL_ADD_HOME_WIDGET': 'Unable to add homestuff! Please try again',
+
+	'LBL_DEFAULT_VALUE_FOR_THIS_FIELD' : 'Default Value for this Field',
+
+	'RECIPIENTS_CANNOT_BE_EMPTY' : 'Selected Recipients cannot be empty',
+	'VALID_SCANNER_NAME' : 'Please enter a valid Scanner name (It should be only Characters and Numbers)',
+	'ERR_SAME_SOURCE_AND_TARGET' : 'Source field and Target field should not be same',
+	'ERR_ATLEAST_ONE_VALUE_FOR' : 'You need to select at least one value for',
+	'ERR_SELECT_MODULE_FOR_DEPENDENCY' : 'Please select a module to add Dependency',
+
+	'LBL_SIZE_SHOULDNOTBE_GREATER':'File size should not be greater than ', //added for upload error message
+	'LBL_MAX_SIZE':'Μέγιστο επιτρεπτό μέγεθος επισύναψης είναι', //added for display file size limit
+	'LBL_FILESIZEIN_MB':'MB', // added to show filesize limit in MB
+	'LBL_FILESIZEIN_KB':'KB', // added to show filesize limit in KB
+	'LBL_FILESIZEIN_B':'B', // added to show filesize limit in B
+	//Contexual help page
+    'LBL_HELP_TITLE' : 'Help',
+    'LBL_WIKI_TITLE' : 'Manuals',
+    'LBL_FAQ_TITLE'   : 'FAQ',
+    'LBL_VIDEO_TITLE' : 'Video',
+    'LBL_CLOSE_TITLE' : 'Close',
+	'LBL_SELECT':'Select Default Widgets To Be Shown',
+
+	'ERR_SELECT_ATLEAST_ONE_MERGE_CRITERIA_FIELD' : 'Select at least one field for merge criteria',
+	'ERR_PLEASE_MAP_MANDATORY_FIELDS' : 'Please map the following mandatory fields',
+	'ERR_MAP_NAME_ALREADY_EXISTS' : 'Map name already exists. Please give a different name',
+	'ERR_MAP_NAME_CANNOT_BE_EMPTY' : 'Map name cannot be empty',
+	'ERR_FIELDS_MAPPED_MORE_THAN_ONCE' : 'Following field is mapped more than once. Please check the mapping.',
+
+	//arror messages for lead conversion
+	'ERR_SELECT_EITHER':'Select either Organization or Contact to convert the lead',
+	'ERR_SELECT_ACCOUNT':'Select Organization to proceed',
+	'ERR_SELECT_CONTACT':'Select Contact to proceed',
+	'ERR_MANDATORY_FIELD_VALUE':'Values for Mandatory Fields are missing',
+	'ERR_POTENTIAL_AMOUNT':'Potential Amount must be a number',
+	'ERR_EMAILID':'Enter valid Email Id',
+	'ERR_TRANSFER_TO_ACC':'Organization should be selected to transfer related records',
+	'ERR_TRANSFER_TO_CON':'Contact should be selected to transfer related records ',
+	'SURE_TO_DELETE_CUSTOM_MAP':'Are you sure you want to delete the Field Mapping?',
+	'LBL_CLOSE_DATE':'Close Date',
+	'LBL_EMAIL':'Email',
+	'MORE_THAN_500' : 'You selected more than 500 records. For this action it may take longer time. Are you sure want to proceed?',
+	'LBL_MAPPEDALERT':'The field has been already mapped'
+
+     };
