@@ -1253,8 +1253,59 @@ $app_strings = array (
 
 // For Mass Edit
 'LBL_SELECT_FIELDS_TO_UDPATE_WITH_NEW_VALUE'=>'Επιλέξτε πεδία για να ενημερωθούν και να τους δοθεί η καινούργια τιμή.',
-
 'LBL_LOADING'=>'Εκτελείται φόρτωση...',
+
+//Added for Sub Products
+'Parent Product' => 'Γονικό Προϊόν',
+
+//Added for Service Contracts
+'Service Contracts' => 'Service Contracts',
+'ServiceContracts' => 'ServiceContracts',
+'Services' => 'Services',
+	'LBL_REFRESH' => 'Refresh',
+	'LBL_Reminder' => 'Reminder',
+	'LBL_RESET_PASSWORD' => 'Reset Password',
+	'LBL_PHP_UPGRADE' => 'You have updated your php version. due changes in crypt API your password
+		  is no longer applicable, please reset your password.',
+	'LBL_RESET_PASSWORD_DESCRIPTION' => 'you can reset password for all users using a script and set it to thier respective
+			  user names.',
+'LBL_CRITERIA_AND'=>'and',
+'LBL_CRITERIA_OR'=>'or',
+'LBL_NEW_GROUP'=>'New Group',
+'LBL_DELETE_GROUP'=>'Delete Group',
+'LBL_NEW_CONDITION'=>'New Condition',
+'LBL_ADVANCED_FILTER' => 'Advanced Search',
+'LBL_CHANGE'=>'Change',
+'LBL_CHANGE_TITLE'=>'Change [Alt+C]',
+'LBL_NEXT_BUTTON_LABEL' => 'Next',
+'LBL_MAX_SIZE'=> 'Μέγιστο μέγεθος επισύναψης είναι', //added for uploadsize limit message
+'LBL_FILESIZEIN_MB'=> 'MB', //added to show filesize in MB
+'LBL_DISABLED' => 'Disabled',
+'LBL_RUNNING' => 'Running',
+'LBL_LAST_SCAN_TIMED_OUT' => 'Last Scan Timed Out',
+'LBL_LAST_SCAN_AT' => 'Last Scan @',
+'LBL_TIME_TAKEN' => 'Time taken',
+'LBL_SHORT_SECONDS' => 'sec',
+'Projects' => 'Projects',
+'End Time' => 'End Time',
+'Start Time' => 'Start Time',
+'Email2' => 'Email2',
+'Comments' => 'Comments',
+'Issued Date' => 'Issued Date',
+'Shipping & Handling Charges' => 'Shipping & Handling Charges',
+'Shipping & Handling Tax:' => 'Shipping & Handling Tax:',
+'Quantity' => 'Quantity',
+'Net Total' => 'Net Total',
+'Send SMS' => 'Send SMS',
+'LBL_MORE'=>'More',
+'LBL_CRM_SETTINGS' => 'CRM Settings',
+'LBL_RELATED_TO_THIS' =>'related to this',
+'LBL_DESELECT_ALL' => 'Deselect all',
+'LBL_RECORDS_IN' => 'records in',
+'LBL_FOLDER' => 'folder',
+'LBL_ADD_MAPPING'=> 'Add Mapping',
+'LBL_FIELD_MAPPING' => 'Field Mapping',
+'LBL_MANDATORY_FIELD_MISSING'=>'Mandatory Field value is missing',
 );
 
 $app_list_strings = array (
@@ -1381,6 +1432,7 @@ $app_currency_strings = array(
 	'Costa Rica, Colón' 	=> 'Costa Rica, Colón',
 	'Croatia, Kuna' 		=> 'Croatia, Kuna',
 	'Cuba, Pesos' 			=> 'Cuba, Pesos',
+	'Cyprus, Pounds'		=> 'Cyprus, Pounds',
 	'Czech Republic, Koruny' => 'Czech Republic, Koruny',
 	'Denmark, Kroner' 		=> 'Denmark, Kroner',
 	'Dominican Republic, Pesos' => 'Dominican Republic, Pesos',
@@ -1421,6 +1473,7 @@ $app_currency_strings = array(
 	'Lithuania, Litai' 		=> 'Lithuania, Litai',
 	'Macedonia, Denars' 	=> 'Macedonia, Denars',
 	'Malaysia, Ringgits' 	=> 'Malaysia, Ringgits',
+	'Malta, Liri'			=> 'Malta, Liri',
 	'Mauritius, Rupees' 	=> 'Mauritius, Rupees',
 	'Mexico, Pesos' 		=> 'Mexico, Pesos',
 	'Mongolia, Tugriks' 	=> 'Mongolia, Tugriks',
@@ -1440,6 +1493,7 @@ $app_currency_strings = array(
 	'Peru, Nuevos Soles' 	=> 'Peru, Nuevos Soles',
 	'Philippines, Pesos' 	=> 'Philippines, Pesos',
 	'Poland, Zlotych' 		=> 'Poland, Zlotych',
+	'Qatar, Rials'			=> 'Qatar, Rials',
 	'Romania, New Lei' 		=> 'Romania, New Lei',
 	'Russia, Rubles'		=> 'Russia, Rubles',
 	'Saint Helena, Pounds' => 'Saint Helena, Pounds',
@@ -1473,7 +1527,16 @@ $app_currency_strings = array(
 	'China, Yuan Renminbi' 	=> 'China, Yuan Renminbi',
 	'Afghanistan, Afghanis' => 'Afghanistan, Afghanis',
 	'Cambodia, Riels' 		=> 'Cambodia, Riels',
+	'China, Yuan Renminbi'	=> 'China, Yuan Renminbi',
+	'Jordan, Dinar'			=> 'Jordan, Dinar',
+	'Kenya, Shilling'		=> 'Kenya, Shilling',
+	'MADAGASCAR, Malagasy Ariary' => 'MADAGASCAR, Malagasy Ariary',
+	'United Arab Emirates, Dirham' => 'United Arab Emirates, Dirham',
+	'United Republic of Tanzania, Shilling' => 'United Republic OF Tanzania, Shilling',
+	'Yemen, Rials'			=> 'Yemen, Rials',
+	'Zambia, Kwacha'		=> 'Zambia, Kwacha',
+	'Malawi, kwacha'		=> 'Malawi, kwacha',
+	'Tunisian, Dinar'		=> 'Tunisian, Dinar',
+	'Moroccan, Dirham'		=> 'Moroccan, Dirham',
 );
-
-
 ?>

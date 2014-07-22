@@ -14,9 +14,7 @@
  ********************************************************************************/
 /*********************************************************************************
 GREEK TRANSLATION - LOCALISATION
-
  ********************************************************************************/
-
 $mod_strings = Array(
   'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
   'LBL_MODULE_NAME' => 'Συστάσεις',
@@ -94,9 +92,11 @@ $mod_strings = Array(
   'LBL_SELECT_LEAD' => 'Επιλογή Σύστασης',
   'LBL_GENERAL_INFORMATION' => 'Γενικές Πληροφορίες',
   'LBL_DO_NOT_CREATE_NEW_POTENTIAL' => 'Να μην δημιουργηθεί  Νέα Ευκαιρία κατά την μετατροπή',
-  'LBL_NEW_POTENTIAL' => 'Νέα Ευκαιρία',
+  
+'LBL_NEW_POTENTIAL' => 'Νέα Ευκαιρία',
   'LBL_POTENTIAL_TITLE' => 'Ευκαιρίες',
-  'LBL_NEW_TASK' => 'Νέα Εργασία',
+  
+'LBL_NEW_TASK' => 'Νέα Εργασία',
   'LBL_TASK_TITLE' => 'Εργασίες',
   'LBL_NEW_CALL' => 'Νέο Τηλεφώνημα',
   'LBL_CALL_TITLE' => 'Τηλεφώνημα',
@@ -108,14 +108,18 @@ $mod_strings = Array(
   'LBL_NOTE_TITLE' => 'Notes',
   'LBL_NEW_ATTACHMENT' => 'Νέο Συνημμένο',
   'LBL_ATTACHMENT_TITLE' => 'Προσαρτώμενα',
-  'LBL_ALL' => 'Ολα',
+  
+'LBL_ALL' => 'Ολα',
   'LBL_CONTACTED' => 'Έγινε επαφή',
   'LBL_LOST' => 'Απωλέστηκε',
   'LBL_HOT' => 'Θερμό',
   'LBL_COLD' => 'Ψυχρό',
-  'LBL_TOOL_FORM_TITLE' => 'Εργαλεία Συστάσεων',
-  'LBL_SELECT_TEMPLATE_TO_MAIL_MERGE' => 'Επιλογή προτύπου για Συγχώνευση Αλληλογραφίας:',
-  'Salutation' => 'Προσφώνηση',
+  
+'LBL_TOOL_FORM_TITLE' => 'Εργαλεία Συστάσεων',
+  
+'LBL_SELECT_TEMPLATE_TO_MAIL_MERGE' => 'Επιλογή προτύπου για Συγχώνευση Αλληλογραφίας:',
+  
+'Salutation' => 'Προσφώνηση',
   'First Name' => 'Όνομα',
   'Phone' => 'Τηλ.',
   'Last Name' => 'Επώνυμο',
@@ -194,7 +198,6 @@ $mod_strings = Array(
 'Utilities'=>'ΔΕΚΟ',
 'Other'=>'Άλλο',
 
-
 'Cold Call'=>'Απευθείας Τηλεφώνημα',
 'Existing Customer'=>'Υπάρχων Πελάτης',
 'Self Generated'=>'Αυτογενές',
@@ -223,13 +226,19 @@ $mod_strings = Array(
 
 'Designation'=>'Τίτλος',
      
-     
 // Added after 5.0.4 GA
 
 //Module Sequence Numbering
-'Lead No'=>'Αρ. Σύστασης',
+'Lead No'=>'Αρ. Προοπτικής',
 // END
+'LBL_TRANSFER_RELATED_RECORDS_TO' => 'Μετέφερε την σχετική εγγραφή στην',
 
+'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Μπορεί να είναι μια απο τις παρακάτω αιτίες',
+'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Όλα τα υποχρεωτικά πεδία δεν έχουν συνδεθεί',
+'LBL_MANDATORY_FIELDS_ARE_EMPTY' => 'Κάποια απο τα υποχρεωτικά πεδία είναι κενά',
+'LBL_LEADS_FIELD_MAPPING' => 'Τροποποιημένη διασύνδεση πεδίων Προοπτικών',
+'LBL_FIELD_SETTINGS' => 'Ρυθμίσεις Πεδίου',
+'Leads ID' => 'Leads ID',
 );
 
 ?>
