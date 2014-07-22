@@ -231,7 +231,7 @@ $mod_strings = Array(
 //Module Sequence Numbering
 'Lead No'=>'Αρ. Προοπτικής',
 // END
-'LBL_TRANSFER_RELATED_RECORDS_TO' => 'Μετέφερε τις σχετικές εγγραφές στην/ον',
+'LBL_TRANSFER_RELATED_RECORDS_TO' => 'Μετέφερε την σχετική εγγραφή στην',
 
 'LBL_FOLLOWING_ARE_POSSIBLE_REASONS' => 'Μπορεί να είναι μια απο τις παρακάτω αιτίες',
 'LBL_LEADS_FIELD_MAPPING_INCOMPLETE' => 'Όλα τα υποχρεωτικά πεδία δεν έχουν συνδεθεί',
