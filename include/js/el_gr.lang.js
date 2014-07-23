@@ -335,6 +335,6 @@
 	'LBL_CLOSE_DATE':'Close Date',
 	'LBL_EMAIL':'Email',
 	'MORE_THAN_500' : 'You selected more than 500 records. For this action it may take longer time. Are you sure want to proceed?',
-	'LBL_MAPPEDALERT':'The field has been already mapped'
+	'LBL_MAPPEDALERT':'The field has been already mapped',
 
      };
