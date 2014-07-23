@@ -97,9 +97,9 @@
                                 SELECT_TEMPLATE_TO_MERGE:'Παρακαλώ επιλέξτε Πρότυπο για Συγχώνευση',
 				SELECTED_MORE_THAN_ONCE:'Έχετε επιλέξει τα ακόλουθα προϊόντα περισσότερες από μία φορές.',
 				YES:'ναι',
-                NO:'όχι',
-                MAIL:'mail',
-				EQUALS:'είναι ίσο με',
+                                NO:'όχι',
+                                MAIL:'mail',
+		 		EQUALS:'είναι ίσο με',
 				NOT_EQUALS_TO:'δεν είναι ίσο με',
 				STARTS_WITH:'ξεκινάει με',
 				CONTAINS:'περιέχει',	
@@ -284,7 +284,7 @@
 				RSS: 'RSS',
 				Default: 'Default',
 				Notebook: 'Notebook',
-				SPECIAL_CHARS:'\\ / < > + \' " '
+				SPECIAL_CHARS:'\\ / < > + \' " ',
 
 	'BETWEEN': 'between',
 	'BEFORE': 'before',
