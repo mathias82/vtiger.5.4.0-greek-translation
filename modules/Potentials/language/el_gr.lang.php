@@ -28,18 +28,18 @@ $mod_strings = Array(
  'LBL_NAME' => 'Όνομα Ευκαιρίας',
  'LBL_INVITEE' => 'Επαφές',
  'LBL_LIST_OPPORTUNITY_NAME' => 'Ευκαιρία',
- 'LBL_LIST_ACCOUNT_NAME' => 'Όνομα Λογαριασμού',
+ 'LBL_LIST_ACCOUNT_NAME' => 'Όνομα Εταιρείας',
  'LBL_PRODUCT_NAME' => 'Όνομα Προϊόντος',
  'LBL_LIST_AMOUNT' => 'Ποσό',
  'LBL_LIST_DATE_CLOSED' => 'Αναμένεται να κλείσει',
  'LBL_LIST_SALES_STAGE' => 'Στάδιο Πώλησης',
  'LBL_OPPORTUNITY_NAME'=>'Ευκαιρία:',
- 'LBL_LIST_ACCOUNT_NAME' => 'Όνομα Λογαριασμού',
+ 'LBL_LIST_ACCOUNT_NAME' => 'Όνομα Εταιρείας',
  'LBL_AMOUNT'=>'Ποσό:',
  'LBL_DATE_CLOSED' => 'Ημερ.που αναμένεται να κλείσει:',
  'LBL_TYPE' => 'Τύπος:',
  'LBL_NEXT_STEP' => 'Επόμενο Βήμα:',
- 'LBL_LEAD_SOURCE' => 'Προέλευση Σύστασης:',
+ 'LBL_LEAD_SOURCE' => 'Προέλευση Προοπτικής:',
  'LBL_SALES_STAGE' => 'Στάδιο Πώλησης:',
  'LBL_PROBABILITY' => 'Πιθανότητα(%):',
  'LBL_DESCRIPTION' => 'Περιγραφή:',
@@ -90,7 +90,7 @@ $mod_strings = Array(
 //Added for 4GA
  'Potential Name' => 'Όνομα Ευκαιρίας',
  'Amount' => 'Ποσό',
- 'Account Name' => 'Όνομα Λογαριασμού',
+ 'Account Name' => 'Όνομα Εταιρείας',
  'Currency' => 'Νόμισμα',
  'Expected Close Date' => 'Αναμενόμενη Ημερ.Κλεισίματος',
  'Type' => 'Τύπος',
@@ -134,8 +134,8 @@ $mod_strings = Array(
 'Other'=>'Άλλο',
 
 '--None--'=>'--Κανένα--',
-'Existing Business'=>'Υπάρχουσα εταιρεία',
-'New Business'=>'Νέα εταιρεία',
+'Existing Business'=>'Υπάρχων Πελάτης',
+'New Business'=>'Νέος Πελάτης',
 
 
 // Added after 5.0.4 GA
