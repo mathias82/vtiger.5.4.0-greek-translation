@@ -15,8 +15,8 @@ GREEK TRANSLATION - LOCALISATION
 $mod_strings = Array (
 'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
 'SMSNotifier'                 => 'SMS-Ειδοποίηση',
-'SINGLE_SMSNotifier'          => 'SMS Info',
-'LBL_SMSNOTIFIER_INFORMATION' => 'SMS Πληροφορίες',
+'SINGLE_SMSNotifier'          => 'Πληροφορία SMS',
+'LBL_SMSNOTIFIER_INFORMATION' => 'Πληροφορίες SMS',
 'LBL_CUSTOM_INFORMATION'      => 'Πληροφορίες Πελάτη',
 'Assigned To'                 => 'Ανατέθηκε σε',
 'Created Time'                => 'Δημιουργήθηκε',
