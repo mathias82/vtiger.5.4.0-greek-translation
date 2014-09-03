@@ -266,7 +266,7 @@ $mod_strings = Array(
 // Added/Updated for vtiger CRM 5.0.4
 'not equal to'=>'Όχι ίσο με',
 'starts with'=>'Ξεκινάει με',
-'ends with'=>'Τελειώνει με',
+'ends with'=>'Λήγει με',
 //'Product Code'=>'Product Code',
 
 // Added after 5.0.4 GA

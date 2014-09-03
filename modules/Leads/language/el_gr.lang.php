@@ -145,7 +145,7 @@ $mod_strings = Array(
   'Country' => 'Χώρα',
   'State' => 'Πολιτεία',
   'Description' => 'Περιγραφή',
-'Po Box'=>'ΤΚ',
+'Po Box'=>'Ταχ. Θυρίδα',
 'Campaign Source'=>'Καμπάνια προέλευσης',
 //Added for CustomView 4.2 Release
 'Name'=>'Όνομα',

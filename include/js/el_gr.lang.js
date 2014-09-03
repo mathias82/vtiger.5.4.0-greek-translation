@@ -52,7 +52,8 @@
                                 MISSING_EVENT_NAME:'Λείπει το όνομα του Γεγονότος',
                                 EVENT_TYPE_NOT_SELECTED:'Δεν έχει επιλεγεί ο τύπος του Γεγονότος',
                                 OPPORTUNITYNAME_CANNOT_BE_EMPTY:'Το πεδίο ονόματος Ευκαιρίας δεν μπορεί να είναι κενό',
-                                CLOSEDATE_CANNOT_BE_EMPTY:'Το πεδίο Ημερομηνίας Κλεισίματος δεν μπορεί να είναι κενό',
+				NAME_DESC:' για το όνομα Φακέλου & Περιγραφή',                                
+				CLOSEDATE_CANNOT_BE_EMPTY:'Το πεδίο Ημερομηνίας Κλεισίματος δεν μπορεί να είναι κενό',
                                 SITEURL_CANNOT_BE_EMPTY:'Το Site Url δεν μπορεί να είναι κενό',
                                 SITENAME_CANNOT_BE_EMPTY:'Το Site Name δεν μπορεί να είναι κενό',
                                 LISTPRICE_CANNOT_BE_EMPTY:'Η τιμή τιμοκαταλόγου δεν μπορεί να είναι κενή',
@@ -110,6 +111,7 @@
 				GREATER_OR_EQUALS:'μεγαλύτερο ή ίσο',
 
 				NO_SPECIAL_CHARS:'Δεν επιτρέπονται οι ειδικοί χαρακτήρες στο String Τιμολογίου',
+				ENDS_WITH:'λήγει με',				
 				SHARED_EVENT_DEL_MSG:'Αυτός ο χρήστης δεν έχει δικαίωμα να διαγράψει αυτή την εγγραφή.',
 				PLS_SELECT_VALID_FILE:'Παρακαλώ επιλέξτε αρχείο με την ακόλουθη επέκταση:\n',
                                 NO_SPECIAL:'Δεν επιτρέπονται ειδικοί χαρακτήρες',

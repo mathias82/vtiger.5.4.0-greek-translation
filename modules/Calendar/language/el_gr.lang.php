@@ -37,6 +37,7 @@ $mod_strings = Array(
 'LBL_USE24'=>'Χρήση μορφής 24ώρου',
 'LBL_CALSTART'=>'Ώρα εκκίνησης ημερολογίου',
 'LBL_TIMESETTINGS'=>'Ρυθμίσεις ώρας',
+'LBL_HOLDFOLLOWUP'=>'Σε συνέχεια στις',
 'LBL_OPENCAL'=>'Άνοιγμα ημερολογίου',
 
   'LBL_CALL' => 'Τηλέφωνο',
