@@ -132,7 +132,7 @@ $mod_strings = Array(
   'ERR_LAST_ADMIN_1' => 'Το όνομα χρήστη ',
   'ERR_LAST_ADMIN_2' => 'είναι το τελευταίο όνομα χρήστη τύπου Admin. Τουλάχιστον ένας χρήστης πρέπει να είναι χρήστης Admin.<br>ελέξτε τις ρυθμίσεις του χρήστη Admin.',
 		
-  'ERR_DELETE_RECORD' => 'Πρέπει να προσδιορίσετε μιά εγγραφή για να διαγράψετε το λογαριασμό.',
+  'ERR_DELETE_RECORD' => 'Πρέπει να προσδιορίσετε μιά εγγραφή για να διαγράψετε τον Οργανισμό.',
 		
 // Additional Fields for i18n --- Release vtigerCRM 3.2 Patch 2
 // Users--listroles.php , createrole.php , ListPermissions.php , editpermissions.php
@@ -154,7 +154,7 @@ $mod_strings = Array(
 'LBL_DELETE' => 'Διαγραφή',
 'LBL_VIEW'=>'Προβολή',
 'LBL_LEADS'=>'Συστάσεις',
-'LBL_ACCOUNTS' => 'Λογαριασμοί',
+'LBL_ACCOUNTS' => 'Οργανισμοί',
 'LBL_CONTACTS' => 'Επαφές',
 'LBL_OPPURTUNITIES' => 'Ευκαιρίες',
 'LBL_TASKS' => 'Εργασίες',
@@ -165,7 +165,7 @@ $mod_strings = Array(
 'LBL_CALLS'=>'Τηλέφωνήματα',
   'LBL_IMPORT_PERMISSIONS' => 'Εισαγωγή Δικαιωμάτων',
   'LBL_IMPORT_LEADS' => 'Εισαγωγή Συστάσεων',
-  'LBL_IMPORT_ACCOUNTS' => 'Εισαγωγή Λογαριασμών',
+  'LBL_IMPORT_ACCOUNTS' => 'Εισαγωγή Οργανισμών',
   'LBL_IMPORT_CONTACTS' => 'Εισαγωγή Επαφών',
   'LBL_IMPORT_OPPURTUNITIES' => 'Εισαγωγή Ευκαιριών',
   
@@ -203,7 +203,7 @@ $mod_strings = Array(
 'LBL_SELECT_FIELD_TYPE'=>'Επιλέξτε τύπο πεδίου',
 'LBL_SELECT_FIELD'=>'Επιλέξτε πεδίο:',
 'LBL_MERGE_FIELD_VALUE'=>'Αντιγραφή τιμής συγχωνευμένου πεδίου:',
-'LBL_ACCOUNT_FIELDS'=>'Πεδία Λογαριασμού',
+'LBL_ACCOUNT_FIELDS'=>'Πεδία Οργανισμού',
 'LBL_CONTACT_FIELDS'=>'Πεδία Επαφών',
 'LBL_LEAD_FIELDS'=>'Πεδία Συστάσεων',
 'LBL_COPY_AND_PASTE_MERGE_FIELD'=>'Αντιγράψτε το συγχωνευμένο πεδίο στο πρότυπό σας.',
@@ -451,7 +451,7 @@ $mod_strings = Array(
 //Added after pathc2
 'LBL_LEAD_FIELD_ACCESS'=>'Πρόσβαση Πεδίων Συστάσεων',
 
-'LBL_ACCOUNT_FIELD_ACCESS'=>'Πρόσβαση Πεδίων Λογαριασμών',
+'LBL_ACCOUNT_FIELD_ACCESS'=>'Πρόσβαση Πεδίων Οργανισμών',
 
 'LBL_CONTACT_FIELD_ACCESS'=>'Πρόσβαση Πεδίων Επαφών',
 
@@ -483,7 +483,7 @@ $mod_strings = Array(
 'LBL_HOMEPAGE_ORDER_UPDATE'=>'Ενημέρωση Σειράς Εμφάνισης Υποεφαρμογών',
 'LBL_HOMEPAGE_ID'=>'Σειρά Εμφάνισης Υποεφαρμογών',
 'ERR_INVALID_USER'=>'Δεν έχετε δικαίωμα πρόσβασης--Παρακαλώ αναζητήστε από "Οι Λογαριασμοί μου"',
-'ALVT'=>'Κυριότεροι Λογαριασμοί',
+'ALVT'=>'Κυριότεροι Οργανισμοί',
 'PLVT'=>'Κυριότερες Ευκαιρίες',
 'QLTQ'=>'Κυριότερες Παραγγελίες',
 'CVLVT'=>'Κύριοι Δείκτες',
