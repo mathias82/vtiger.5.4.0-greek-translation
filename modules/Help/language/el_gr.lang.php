@@ -19,12 +19,12 @@ GREEK TRANSLATION - LOCALISATION
 
 $mod_strings = Array(
 'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
-'LBL_MODULE_NAME'=>'Λογαριασμοί',
-'LBL_MODULE_TITLE'=>'Λογαριασμοί: Αρχική',
-'LBL_SEARCH_FORM_TITLE'=>'Αναζήτηση Λογαριασμών',
-'LBL_LIST_FORM_TITLE'=>'Λίστα Λογαριασμών',
-'LBL_NEW_FORM_TITLE'=>'Νέος Λογαριασμός',
-'ERR_DELETE_RECORD'=>"Πρέπει να προσδιορίσετε μια εγγραφή για να διαγράψετε το λογαριασμό.",
+'LBL_MODULE_NAME'=>'Οργανισμοί',
+'LBL_MODULE_TITLE'=>'Οργανισμοί: Αρχική',
+'LBL_SEARCH_FORM_TITLE'=>'Αναζήτηση Οργανισμών',
+'LBL_LIST_FORM_TITLE'=>'Λίστα Οργανισμών',
+'LBL_NEW_FORM_TITLE'=>'Νέος Οργανισμός',
+'ERR_DELETE_RECORD'=>"Πρέπει να προσδιορίσετε μια εγγραφή για να διαγράψετε τον Οργανισμο.",
 );
 
 ?>
