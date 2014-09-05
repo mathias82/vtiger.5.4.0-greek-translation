@@ -67,7 +67,7 @@ $app_strings = array (
 'LBL_FIND_BUTTON'=>'Εύρεση',
 'LBL_CONVERT_BUTTON_TITLE'=>'Μετατροπή [Alt+C]',
 'LBL_CONVERT_BUTTON_KEY'=>'C',
-'LBL_CONVERT_BUTTON_LABEL'=>'Μετατροπή Σύστασης',
+'LBL_CONVERT_BUTTON_LABEL'=>'Μετατροπή Προοπτικής',
 'LBL_TABCUSTOMISE_BUTTON_KEY'=>'C',
 'LBL_TABCUSTOMISE_BUTTON_LABEL'=>'Εξατομίκευση ετικκέτας',
 'LBL_ROLES_BUTTON_LABEL'=>'Εμφάνιση Ρόλων',
@@ -152,7 +152,7 @@ $app_strings = array (
 'SINGLE_Contacts' => 'Επαφή',
 'SINGLE_Campaigns' => 'Εκστρατεία',
 'SINGLE_HelpDesk' => 'Δελτίο Τ.Υ.',
-'SINGLE_Leads' => 'Σύσταση',
+'SINGLE_Leads' => 'Προοπτική',
 'SINGLE_Events' => 'Γεγονός',
 'SINGLE_Calendar' => 'Εργασία',
 'SINGLE_Dashboard' => 'Dashboard',
@@ -306,7 +306,7 @@ $app_strings = array (
 'LBL_TICKETS'=>'Δελτία ΤΥ',
 'LBL_POTENTIAL_TITLE'=>'Ευκαιρίες',
 'LBL_NEW_POTENTIAL'=>'Νέα Ευκαιρία',
-'LBL_LEAD_NAME'=>'Όνομα Σύστασης',
+'LBL_LEAD_NAME'=>'Όνομα Προοπτικής',
 'LBL_ACCOUNT_NAME'=>'Όνομα Λογαριασμού',
 'LBL_ACCOUNT_TYPE'=>'Τύπος Λογαριασμού',
 'LBL_USER_TITLE'=>'Χρήστες',
@@ -329,7 +329,7 @@ $app_strings = array (
 'LBL_SELECT_GROUP'=>'Επιλέξτε ένα Γκρουπ',
 'LBL_HOUR_AND_MINUTE'=>'(ώρες/λεπτά)',
 'YEAR_MONTH_DATE'=>'24:00',
-'COMBO_LEADS'=>'Συστάσεις',
+'COMBO_LEADS'=>'Προοπτικές',
 'COMBO_ACCOUNTS'=>'Λογαριασμοί',
 'COMBO_CONTACTS'=>'Επαφές',
 'COMBO_POTENTIALS'=>'Ευκαιρίες',
@@ -376,7 +376,7 @@ $app_strings = array (
 'LBL_EVENT_ENDDATE'=>'Ημ/νία & ώρα λήξης',
 'LBL_CUSTOM_INFORMATION' => 'Εξατομικ. πληροφ.',
 'LBL_NONE_SCHEDULED' => 'Κανένα προγραμματισμένο',
-'Leads' => 'Συστάσεις',
+'Leads' => 'Προοπτικές',
 'Accounts' => 'Λογαριασμοί',
 'Accounts & Contacts' => 'Λογαριασμοί & Επαφές',
 'Contacts' => 'Επαφές',
@@ -428,7 +428,7 @@ $app_strings = array (
 'LBL_DUPLICATING' => 'Κλωνοποίηση',
 'LBL_EDITING'=>'Επεξεργασία',
 'LBL_NEW'=>'Νέο',
-'Lead'=>'Σύσταση',
+'Lead'=>'Προοπτική',
 'Account'=>'Λογαριασμός',
 'Contact'=>'Επαφή',
 'Opportunity'=>'Ευκαιρία',
@@ -722,7 +722,7 @@ $app_strings = array (
 'PORTAL_PROVIDE_EMAILID' => 'Ο χρήστης του Portal θα πρέπει να δώσει το email Id για να εισέλθει στο portal',
 'ADD_CONFIRMATION' => 'Είστε σίγουρος/η ότι θέλετε να προσθέσετε το επιλεγμένο ',
 'ACCOUNTNAME_CANNOT_EMPTY' => 'Το όνομα του λογαριασμού δεν μπορεί να είναι κενό',
-'CANT_SELECT_CONTACTS' => "Δεν μπορείτε να επιλέξετε τις σχετιζόμενες επαφές από την Σύσταση",
+'CANT_SELECT_CONTACTS' => "Δεν μπορείτε να επιλέξετε τις σχετιζόμενες επαφές από την Προοπτική",
 'LBL_THIS' => 'Αυτό ',
 'DOESNOT_HAVE_MAILIDS' => ' δεν έχει mail ids',
 'DOESNOT_HAVE_AN_MAILID' => ' δεν έχει Email Id',
@@ -846,7 +846,7 @@ $app_strings = array (
 // Added for display the label of Invoice no
 'invoice no'=>'αρ. Τιμολογίου',
 //Added for title to the button Select Lead
-'LBL_SELECT_LEAD_BUTTON_LABEL' => 'Επιλογή Συστάσεων',
+'LBL_SELECT_LEAD_BUTTON_LABEL' => 'Επιλογή Προοπτικών',
 //Added for the link Read License in footer
 'LNK_READ_LICENSE'=>'Διαβάστε την Άδεια',
 'ACTIVITIES' => 'Δραστηριότητες',
@@ -871,14 +871,14 @@ $app_strings = array (
 'Created Time'=>'Χρόνος Δημιουργίας',
 'Modified Time'=>'Χρόνος Αλλαγής',
 'FAQ Id'=>'FAQ Id',
-'Lead Status'=>'Κατάσταση Σύστασης',
-'Lead Source'=>'Πηγή Σύστασης',
+'Lead Status'=>'Κατάσταση Προοπτικής',
+'Lead Source'=>'Πηγή Προοπτικής',
 'Quote No'=>'αρ. Προσφοράς',
 'Yahoo Id'=>'Yahoo Id',
 
 // Added/Updated for vtiger CRM 5.0.4
 'LBL_CHARSET' => 'UTF-8',
-'Lost Lead' => 'Χαμένη σύσταση',
+'Lost Lead' => 'Χαμένη Προοπτική',
 'LBL_SEND_EMAIL_PDF' => 'Αποστολή Email με PDF',
 //Added for incoming mail server settings form js validation
 'ERR_INVALID_PAGE_COUNT' => "Μή έγκυρος αριθμός σελίδων",
@@ -890,7 +890,7 @@ $app_strings = array (
 //added for #3012
 'LBL_CREATING_NEW_Contacts' => 'Δημιουργία Νέας Επαφής',
 'LBL_CREATING_NEW_Campaigns' => 'Δημιουργία Νέας Εκστρατείας',
-'LBL_CREATING_NEW_Leads' => 'Δημιουργία Νέας Σύστασης',
+'LBL_CREATING_NEW_Leads' => 'Δημιουργία Νέας Προοπτικής',
 'LBL_CREATING_NEW_Accounts' => 'Δημιουργία Νέου Οργανισμού',
 'LBL_CREATING_NEW_Potentials' => 'Δημιουργία Νέας Ευκαιρίας',
 'LBL_CREATING_NEW_Quotes' => 'Δημιουργία Νέας Προσφοράς',
@@ -1313,7 +1313,7 @@ $app_list_strings = array (
 array(
     'Home' => 'Αρχική',
     'Dashboard' => 'Γραφήματα',
-    'Leads' => 'Συστάσεις',
+    'Leads' => 'Προοπτικές',
     'Contacts' => 'Επαφές',
     'Accounts' => 'Λογαριασμοί',
     'Potentials' => 'Ευκαιρίες',
@@ -1399,7 +1399,7 @@ array (
 'record_type_display' => 
 array (
   'Accounts' => 'Λογαριασμός',
-  'Leads' => 'Σύσταση',
+  'Leads' => 'Προοπτική',
   'Opportunities' => 'Ευκαιρία',
 ),
 

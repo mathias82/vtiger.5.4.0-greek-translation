@@ -52,7 +52,7 @@ $mod_strings = Array(
 'LBL_SENT_MAILS'=>'Απεσταλμένα',
 'LBL_TRASH'=>'Σκουπίδια',
 'LBL_JUNK_MAILS'=>'Ανεπιθύμητη αλληλογραφία',
-'LBL_TO_LEADS'=>'Προς Συστάσεις',
+'LBL_TO_LEADS'=>'Προς Προοπτικές',
 'LBL_TO_CONTACTS'=>'Προς Επαφές',
 'LBL_TO_ACCOUNTS'=>'Προς Λογαριασμούς',
 'LBL_MY_MAILS'=>'Η αλληλογραφία μου',
@@ -89,8 +89,8 @@ $mod_strings = Array(
 
 
 
-'LBL_NEW_LEAD'=>'Νέα Σύσταση',
-'LBL_LEAD_TITLE'=>'Συστάσεις',
+'LBL_NEW_LEAD'=>'Νέα Προοπτική',
+'LBL_LEAD_TITLE'=>'Προοπτικές',
 
 'LBL_NEW_PRODUCT'=>'Νεό προϊόν',
 'LBL_PRODUCT_TITLE'=>'Προϊόντα',
