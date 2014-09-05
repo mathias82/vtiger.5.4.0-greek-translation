@@ -33,7 +33,7 @@ $mod_strings = Array(
 'LBL_MOVE_TO'=>'Μετακίνηση σε',
 'LBL_DELETE'=>'Διαγραφή',
 
-  'ERR_DELETE_RECORD' => 'Πρέπει να προσδιορίσετε μια εγγραφή για να διαγράψετε το λογαριασμό.',
+  'ERR_DELETE_RECORD' => 'Πρέπει να προσδιορίσετε μια εγγραφή για να διαγράψετε τον Οργανισμό.',
   'LBL_DATE_SENT' => 'Ημερομ.Αποστολής:',
   'LBL_SUBJECT' => 'Θέμα:',
   'LBL_DATE_AND_TIME' => 'Ημερομ.& Ωρα Αποστολής:',
@@ -54,7 +54,7 @@ $mod_strings = Array(
 'LBL_JUNK_MAILS'=>'Ανεπιθύμητη αλληλογραφία',
 'LBL_TO_LEADS'=>'Προς Συστάσεις',
 'LBL_TO_CONTACTS'=>'Προς Επαφές',
-'LBL_TO_ACCOUNTS'=>'Προς Λογαριασμούς',
+'LBL_TO_ACCOUNTS'=>'Προς Οργανισμούς',
 'LBL_MY_MAILS'=>'Η αλληλογραφία μου',
 'LBL_QUAL_CONTACT'=>'Πιστοποιημένη αλληλογραφία (ως προς την Επαφή)',
 'LBL_MAILS'=>'Αλληλογραφία',
@@ -96,8 +96,8 @@ $mod_strings = Array(
 'LBL_PRODUCT_TITLE'=>'Προϊόντα',
 'LBL_NEW_CONTACT'=>'Νέα Επαφή',
 'LBL_CONTACT_TITLE'=>'Έπαφη',
-'LBL_NEW_ACCOUNT'=>'Νέος Λογαριασμός',
-'LBL_ACCOUNT_TITLE'=>'Λογαριασμοί',
+'LBL_NEW_ACCOUNT'=>'Νέος Οργανισμός',
+'LBL_ACCOUNT_TITLE'=>'Οργανισμοί',
 
 // Added vtiger_fields after vtiger4 - Beta
 'LBL_USER_TITLE'=>'Χρήστες',
