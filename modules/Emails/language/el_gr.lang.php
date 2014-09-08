@@ -92,7 +92,7 @@ $mod_strings = Array(
 'LBL_NEW_CONTACT'=>'Νέα Επαφή',
 'LBL_CONTACT_TITLE'=>'Έπαφή',
 'LBL_NEW_ACCOUNT'=>'Νέος Οργανισμός',
-'LBL_ACCOUNT_TITLE'=>'Οργανισμοί',
+'LBL_ACCOUNT_TITLE'=>'Οργανισμός',
 
 // Added vtiger_fields after vtiger4 - Beta
 'LBL_USER_TITLE'=>'Χρήστες',
