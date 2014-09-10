@@ -14,10 +14,10 @@ GREEK TRANSLATION - LOCALISATION
 
 $mod_strings = Array (
 'LBL_CRM_SETTINGS' => 'Ρυθμίσεις',
-'Service Contracts' => 'Συμβόλαια Συντήρησης',
-'ServiceContracts' => 'Συμβόλαια Συντήρησης',
-'SINGLE_ServiceContracts' => 'Συμβόλαιο Συντήρησης',
-'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Συμβολαίου Συντήρησης',
+'Service Contracts' => 'Συμβόλαια Υποστήριξης',
+'ServiceContracts' => 'Συμβόλαια Υποστήριξης',
+'SINGLE_ServiceContracts' => 'Συμβόλαιο Υποστήριξης',
+'LBL_SERVICE_CONTRACT_INFORMATION' => 'Πληροφορίες Συμβολαίου Υποστήριξης',
 'LBL_CUSTOM_INFORMATION' => 'Εξατομικευμένες πληροφορίες',
 
 'Contract No' => 'Αρ. Συμβολαίου',
