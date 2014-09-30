@@ -204,8 +204,8 @@ $mod_strings = Array(
 'LBL_SELECT_FIELD'=>'Επιλέξτε πεδίο:',
 'LBL_MERGE_FIELD_VALUE'=>'Αντιγραφή τιμής συγχωνευμένου πεδίου:',
 'LBL_ACCOUNT_FIELDS'=>'Πεδία Οργανισμού',
-'LBL_CONTACT_FIELDS'=>'Πεδία Επαφών',
-'LBL_LEAD_FIELDS'=>'Πεδία Συστάσεων',
+'LBL_CONTACT_FIELDS'=>'Πεδία Επαφής',
+'LBL_LEAD_FIELDS'=>'Πεδία Προοπτικής',
 'LBL_COPY_AND_PASTE_MERGE_FIELD'=>'Αντιγράψτε το συγχωνευμένο πεδίο στο πρότυπό σας.',
 'LBL_EMAIL_TEMPLATE_INFORMATION'=>'Πρότυπα Επικοινωνίας > Πρότυπα Email > Προβολή',
 'LBL_FOLDER'=>'Φάκελος',
@@ -449,7 +449,7 @@ $mod_strings = Array(
 'LBL_FILE_INFORMATION'=>'Πληροφορίες Αρχείου',
 
 //Added after pathc2
-'LBL_LEAD_FIELD_ACCESS'=>'Πρόσβαση Πεδίων Συστάσεων',
+'LBL_LEAD_FIELD_ACCESS'=>'Πρόσβαση Πεδίων Προοπτικών',
 
 'LBL_ACCOUNT_FIELD_ACCESS'=>'Πρόσβαση Πεδίων Οργανισμών',
 
